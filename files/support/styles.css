@@ -135,7 +135,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'SF UI Display Light', 'SF UI Display';
+  font-family:'SF UI Display Light';
   font-weight:300;
   font-style:normal;
   font-size:18px;
@@ -148,7 +148,7 @@
   top:32px;
   width:96px;
   height:21px;
-  font-family:'SF UI Display Light', 'SF UI Display';
+  font-family:'SF UI Display Light';
   font-weight:300;
   font-style:normal;
   font-size:18px;
@@ -289,7 +289,7 @@
   top:28px;
   width:14px;
   height:14px;
-  font-family:'SF UI Display Medium', 'SF UI Display';
+  font-family:'SF UI Display Medium';
   font-weight:500;
   font-style:normal;
   font-size:9px;
@@ -578,7 +578,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:17px;
@@ -589,7 +589,7 @@
   top:12px;
   width:140px;
   height:20px;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:17px;
@@ -614,7 +614,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'SF UI Display Light', 'SF UI Display';
+  font-family:'SF UI Display Light';
   font-weight:300;
   font-style:normal;
   font-size:17px;
@@ -627,7 +627,7 @@
   top:11px;
   width:140px;
   height:20px;
-  font-family:'SF UI Display Light', 'SF UI Display';
+  font-family:'SF UI Display Light';
   font-weight:300;
   font-style:normal;
   font-size:17px;
@@ -844,7 +844,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:17px;
@@ -855,7 +855,7 @@
   top:12px;
   width:138px;
   height:20px;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:17px;
@@ -880,7 +880,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'SF UI Display Light', 'SF UI Display';
+  font-family:'SF UI Display Light';
   font-weight:300;
   font-style:normal;
   font-size:17px;
@@ -893,7 +893,7 @@
   top:11px;
   width:140px;
   height:20px;
-  font-family:'SF UI Display Light', 'SF UI Display';
+  font-family:'SF UI Display Light';
   font-weight:300;
   font-style:normal;
   font-size:17px;
@@ -942,7 +942,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -954,7 +954,7 @@
   top:0px;
   width:121px;
   height:15px;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -1148,7 +1148,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:17px;
@@ -1159,7 +1159,7 @@
   top:12px;
   width:86px;
   height:20px;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:17px;
@@ -1374,7 +1374,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:17px;
@@ -1385,7 +1385,7 @@
   top:12px;
   width:181px;
   height:20px;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:17px;
@@ -1600,7 +1600,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:17px;
@@ -1611,7 +1611,7 @@
   top:12px;
   width:136px;
   height:20px;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:17px;
@@ -1817,7 +1817,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1829,7 +1829,7 @@
   top:8px;
   width:231px;
   height:28px;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1855,7 +1855,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'SF UI Display Light', 'SF UI Display';
+  font-family:'SF UI Display Light';
   font-weight:300;
   font-style:normal;
   font-size:12px;
@@ -1868,7 +1868,7 @@
   width:108px;
   height:14px;
   opacity:0.649999976158142;
-  font-family:'SF UI Display Light', 'SF UI Display';
+  font-family:'SF UI Display Light';
   font-weight:300;
   font-style:normal;
   font-size:12px;
@@ -1894,7 +1894,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -1905,7 +1905,7 @@
   top:49px;
   width:44px;
   height:12px;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -1930,7 +1930,7 @@
   top:4px;
   width:42px;
   height:42px;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
 }
@@ -2139,7 +2139,7 @@
   top:0px;
   width:198px;
   height:25px;
-  font-family:'SF UI Display Light', 'SF UI Display';
+  font-family:'SF UI Display Light';
   font-weight:300;
   font-style:normal;
   font-size:14px;
@@ -2184,7 +2184,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -2195,7 +2195,7 @@
   top:12px;
   width:88px;
   height:21px;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -2407,7 +2407,7 @@
   top:0px;
   width:198px;
   height:25px;
-  font-family:'SF UI Display Light', 'SF UI Display';
+  font-family:'SF UI Display Light';
   font-weight:300;
   font-style:normal;
   font-size:14px;
@@ -2452,7 +2452,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -2463,7 +2463,7 @@
   top:12px;
   width:88px;
   height:21px;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -2675,7 +2675,7 @@
   top:0px;
   width:198px;
   height:25px;
-  font-family:'SF UI Display Light', 'SF UI Display';
+  font-family:'SF UI Display Light';
   font-weight:300;
   font-style:normal;
   font-size:14px;
@@ -2720,7 +2720,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -2731,7 +2731,7 @@
   top:12px;
   width:88px;
   height:21px;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -2943,7 +2943,7 @@
   top:0px;
   width:198px;
   height:25px;
-  font-family:'SF UI Display Light', 'SF UI Display';
+  font-family:'SF UI Display Light';
   font-weight:300;
   font-style:normal;
   font-size:14px;
@@ -2988,7 +2988,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -2999,7 +2999,7 @@
   top:12px;
   width:88px;
   height:21px;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -3193,7 +3193,7 @@
   top:0px;
   width:198px;
   height:25px;
-  font-family:'SF UI Display Light', 'SF UI Display';
+  font-family:'SF UI Display Light';
   font-weight:300;
   font-style:normal;
   font-size:14px;
@@ -3238,7 +3238,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -3249,7 +3249,7 @@
   top:12px;
   width:88px;
   height:21px;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -3361,7 +3361,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -3373,7 +3373,7 @@
   top:8px;
   width:257px;
   height:28px;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -3399,7 +3399,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'SF UI Display Light', 'SF UI Display';
+  font-family:'SF UI Display Light';
   font-weight:300;
   font-style:normal;
   font-size:12px;
@@ -3412,7 +3412,7 @@
   width:108px;
   height:14px;
   opacity:0.649999976158142;
-  font-family:'SF UI Display Light', 'SF UI Display';
+  font-family:'SF UI Display Light';
   font-weight:300;
   font-style:normal;
   font-size:12px;
@@ -3438,7 +3438,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -3449,7 +3449,7 @@
   top:79px;
   width:24px;
   height:12px;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
   font-size:10px;
@@ -3474,7 +3474,7 @@
   top:34px;
   width:42px;
   height:42px;
-  font-family:'SF UI Display Regular', 'SF UI Display';
+  font-family:'SF UI Display Regular';
   font-weight:400;
   font-style:normal;
 }
@@ -4034,7 +4034,7 @@
   width:236px;
   height:50px;
   background-color:transparent;
-  font-family:'SF UI Display Light', 'SF UI Display';
+  font-family:'SF UI Display Light';
   font-weight:300;
   font-style:normal;
   font-size:34px;
@@ -4100,7 +4100,7 @@
   width:236px;
   height:50px;
   background-color:transparent;
-  font-family:'SF UI Display Light', 'SF UI Display';
+  font-family:'SF UI Display Light';
   font-weight:300;
   font-style:normal;
   font-size:34px;
@@ -4172,7 +4172,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'SF UI Display Medium', 'SF UI Display';
+  font-family:'SF UI Display Medium';
   font-weight:500;
   font-style:normal;
   font-size:12px;
@@ -4184,7 +4184,7 @@
   top:4px;
   width:43px;
   height:14px;
-  font-family:'SF UI Display Medium', 'SF UI Display';
+  font-family:'SF UI Display Medium';
   font-weight:500;
   font-style:normal;
   font-size:12px;
@@ -4210,7 +4210,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'SF UI Display Medium', 'SF UI Display';
+  font-family:'SF UI Display Medium';
   font-weight:500;
   font-style:normal;
   font-size:12px;
@@ -4222,7 +4222,7 @@
   top:4px;
   width:43px;
   height:14px;
-  font-family:'SF UI Display Medium', 'SF UI Display';
+  font-family:'SF UI Display Medium';
   font-weight:500;
   font-style:normal;
   font-size:12px;
@@ -4248,7 +4248,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'SF UI Display Medium', 'SF UI Display';
+  font-family:'SF UI Display Medium';
   font-weight:500;
   font-style:normal;
   font-size:12px;
@@ -4261,7 +4261,7 @@
   top:4px;
   width:29px;
   height:14px;
-  font-family:'SF UI Display Medium', 'SF UI Display';
+  font-family:'SF UI Display Medium';
   font-weight:500;
   font-style:normal;
   font-size:12px;
@@ -4440,7 +4440,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'SF UI Display Medium', 'SF UI Display';
+  font-family:'SF UI Display Medium';
   font-weight:500;
   font-style:normal;
   font-size:12px;
@@ -4451,7 +4451,7 @@
   top:4px;
   width:43px;
   height:14px;
-  font-family:'SF UI Display Medium', 'SF UI Display';
+  font-family:'SF UI Display Medium';
   font-weight:500;
   font-style:normal;
   font-size:12px;
@@ -4476,7 +4476,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'SF UI Display Medium', 'SF UI Display';
+  font-family:'SF UI Display Medium';
   font-weight:500;
   font-style:normal;
   font-size:12px;
@@ -4487,7 +4487,7 @@
   top:4px;
   width:45px;
   height:14px;
-  font-family:'SF UI Display Medium', 'SF UI Display';
+  font-family:'SF UI Display Medium';
   font-weight:500;
   font-style:normal;
   font-size:12px;
@@ -4512,7 +4512,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'SF UI Display Medium', 'SF UI Display';
+  font-family:'SF UI Display Medium';
   font-weight:500;
   font-style:normal;
   font-size:12px;
@@ -4524,7 +4524,7 @@
   top:4px;
   width:29px;
   height:14px;
-  font-family:'SF UI Display Medium', 'SF UI Display';
+  font-family:'SF UI Display Medium';
   font-weight:500;
   font-style:normal;
   font-size:12px;
